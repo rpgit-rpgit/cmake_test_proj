@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/proj.dir/getopt_demo.o  -o proj -rdynamic 
