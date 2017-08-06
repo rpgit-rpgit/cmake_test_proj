@@ -1,1 +1,0 @@
-/usr/bin/cc      CMakeFiles/getopt_demo.dir/getopt_demo.o  -o getopt_demo -rdynamic 

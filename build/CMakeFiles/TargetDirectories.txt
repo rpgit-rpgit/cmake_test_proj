@@ -1,3 +1,0 @@
-/home/shrini/try/cmake_test_proj/build/CMakeFiles/getopt_demo.dir
-/home/shrini/try/cmake_test_proj/build/lib/CMakeFiles/lib1.dir
-/home/shrini/try/cmake_test_proj/build/tools/CMakeFiles/tool1.dir

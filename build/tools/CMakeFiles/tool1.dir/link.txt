@@ -1,1 +1,0 @@
-/usr/bin/cc      CMakeFiles/tool1.dir/tool1.o  -o tool1 -rdynamic ../lib/liblib1.a 
